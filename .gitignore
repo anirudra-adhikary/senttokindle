@@ -1,4 +1,5 @@
 .env
-books-pdf/already_sent/*
-books-pdf/skipped/*
+books/already_sent/*
+books/skipped/*
+books/*
 venv/

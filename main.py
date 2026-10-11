@@ -18,7 +18,7 @@ KINDLE_EMAIL = os.getenv("KINDLE_EMAIL")
 # ==========================================
 # 2. CONFIGURATION & SAFETY LIMITS
 # ==========================================
-SOURCE_FOLDER = "books-pdf"
+SOURCE_FOLDER = "books"
 SENT_FOLDER_NAME = "already_sent"
 SKIPPED_FOLDER_NAME = "skipped"
 
